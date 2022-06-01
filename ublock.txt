@@ -1,0 +1,11 @@
+! Title: Squeljurs uBlock Filters
+! Description: My custom filter list!
+! Expires: 7 days
+! Last modified: %timestamp%
+! Homepage: https://github.com/Squeljur/custom-ublock
+
+https://www.reddit.com - hide ''What are you into'' popup
+www.reddit.com##._1acwN_tUhJ8w-n7oCp-Aw3._199HcTqT2ANvw-1B0onPUa._1DK52RbaamLOWw5UPaht_S
+
+https://calendar.google.com - hide sidebar
+calendar.google.com##.QQYuzf
