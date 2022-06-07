@@ -7,5 +7,13 @@
 ! https://reddit.com - hide ''What are you into'' popup
 reddit.com##div#SHORTCUT_FOCUSABLE_DIV > div > div:has(div[role="dialog"][tabindex="-1"])
 
+! 2022-06-07 https://www.reddit.com - hide useless sidebar stuff
+reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+reddit.com##.TmgZY6tDcdErbE5d7E0HJ
+reddit.com##div._2vEf-C2keJaBMY9qk_BxVn > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+
 ! https://calendar.google.com - hide sidebar
 calendar.google.com##header[role="banner"] ~ div ~ div > div[jsname]:first-of-type
+
+! 2022-06-07 https://monkeytype.com - hide merch banner
+monkeytype.com##.good.banner
