@@ -55,6 +55,8 @@ https://block.energized.pro/ultimate/formats/hosts.txt
 
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt
 
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
+
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 
 https://winhelp2002.mvps.org/hosts.txt
