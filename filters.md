@@ -28,6 +28,8 @@ NLD: EasyDutch
 ## Custom
 [Energized Ultimate (Adblock Version)](https://block.energized.pro/ultimate/formats/filter)
 
+[NoTracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
+
 [Antipopads](https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt)
 
 [AdblockPlus EasyList filler](https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt)
@@ -50,6 +52,12 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 ## Custom
 https://block.energized.pro/ultimate/formats/hosts.txt
+
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt
+
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+
+https://winhelp2002.mvps.org/hosts.txt
 
 https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 
