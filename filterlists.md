@@ -75,15 +75,42 @@ https://www.i-dont-care-about-cookies.eu/abp/
 - [someonewhocares hosts](https://someonewhocares.org/hosts/zero/hosts)
 
 
-```https://block.energized.pro/ultimate/formats/hosts.txt```
-```https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt```
-```https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt```
-```https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt```
-```https://winhelp2002.mvps.org/hosts.txt```
-```https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts```
-```https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt```
-```https://zerodot1.gitlab.io/CoinBlockerLists/hosts```
-```https://someonewhocares.org/hosts/zero/hosts```
+```
+https://block.energized.pro/ultimate/formats/hosts.txt
+```
+
+```
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt
+```
+
+```
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
+```
+
+```
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+```
+
+```
+https://winhelp2002.mvps.org/hosts.txt
+```
+
+```
+https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
+```
+
+```
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt
+```
+
+```
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts
+```
+
+```
+https://someonewhocares.org/hosts/zero/hosts
+```
+
 
 ```
 https://block.energized.pro/ultimate/formats/hosts.txt
