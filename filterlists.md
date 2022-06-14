@@ -17,17 +17,6 @@
 
 [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp/)
 
-## Default
-uBlock filters
-uBlock filters - Badware risks
-uBlock filters - Privacy
-uBlock filters - Quick fixes
-uBlock filters - Resource abuse
-uBlock filters - Unbreak
-Easylist
-EasyPrivacy
-Online Malicious URL Blocklist
-
 ## Built-in
 AdGuard Base
 AdGuard Mobile Ads
@@ -41,6 +30,17 @@ Anti-Facebook
 EasyList Cookie
 Fanboy's Annoyance
 NLD: EasyDutch
+
+## Default
+uBlock filters
+uBlock filters - Badware risks
+uBlock filters - Privacy
+uBlock filters - Quick fixes
+uBlock filters - Resource abuse
+uBlock filters - Unbreak
+Easylist
+EasyPrivacy
+Online Malicious URL Blocklist
 
 # Adaway
 
