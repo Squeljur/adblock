@@ -17,6 +17,17 @@
 
 - [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp/)
 
+```
+https://block.energized.pro/ultimate/formats/filter
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-Ultra-AdBlock-Filter.txt
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt
+https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+https://easylist-downloads.adblockplus.org/exceptionrules.txt
+https://www.i-dont-care-about-cookies.eu/abp/
+```
+
 ## Built-in
 - AdGuard Base
 - AdGuard Mobile Ads
@@ -62,6 +73,18 @@
 - [CoinBlockerLists](https://zerodot1.gitlab.io/CoinBlockerLists/hosts)
 
 - [someonewhocares hosts](https://someonewhocares.org/hosts/zero/hosts)
+
+```
+https://block.energized.pro/ultimate/formats/hosts.txt
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+https://winhelp2002.mvps.org/hosts.txt
+https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts
+https://someonewhocares.org/hosts/zero/hosts
+```
 
 ## Default
 - [Adaway official hosts](https://adaway.org/hosts.txt)
