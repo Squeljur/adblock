@@ -13,8 +13,6 @@
 
 - [AdblockPlus EasyList filler](https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt)
 
-- [AcceptableAds](https://easylist-downloads.adblockplus.org/exceptionrules.txt)
-
 - [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp/)
 
 ```
@@ -24,7 +22,6 @@ https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
-https://easylist-downloads.adblockplus.org/exceptionrules.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 ```
 
