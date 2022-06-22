@@ -62,8 +62,6 @@ https://www.i-dont-care-about-cookies.eu/abp/
 
 - [antipopads hosts](https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts)
 
-- [GoodbyeAds Ultra (adaway/hosts version)](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt)
-
 - [CoinBlockerLists](https://zerodot1.gitlab.io/CoinBlockerLists/hosts)
 
 - [someonewhocares hosts](https://someonewhocares.org/hosts/zero/hosts)
@@ -94,10 +92,6 @@ https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 ```
 
 ```
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt
-```
-
-```
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 ```
 
@@ -113,7 +107,6 @@ https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://winhelp2002.mvps.org/hosts.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 https://someonewhocares.org/hosts/zero/hosts
 ```
