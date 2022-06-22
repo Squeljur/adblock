@@ -17,3 +17,12 @@ calendar.google.com##header[role="banner"] ~ div ~ div > div[jsname]:first-of-ty
 
 ! 2022-06-07 https://monkeytype.com - hide merch banner
 monkeytype.com##.good.banner
+
+! 2022-06-18 https://docs.google.com - hide sidebar in google docs
+docs.google.com##.app-switcher-button-checked.companion-collapser-button.app-switcher-button > .app-switcher-button-icon-container
+
+! 2022-06-11 https://farel.magister.net - hide dumb pfp
+farel.magister.net##[src^="blob:https://farel.magister.net/"]
+
+! 2022-06-20 https://www.youtube.com - remove useless live chat on youtube
+www.youtube.com###chat
