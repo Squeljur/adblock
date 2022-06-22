@@ -5,8 +5,6 @@
 
 - [NoTracking (adblock version)](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
 
-- [GoodbyeAds Ultra (adblock version)](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-Ultra-AdBlock-Filter.txt)
-
 - [GoodbyeAds Youtube (adblock version)](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt)
 
 - [Antipopads](https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt)
@@ -18,7 +16,6 @@
 ```
 https://block.energized.pro/ultimate/formats/filter
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-Ultra-AdBlock-Filter.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
